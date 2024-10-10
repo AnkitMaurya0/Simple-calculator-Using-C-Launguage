@@ -11,7 +11,7 @@ This is a simple calculator program written in C language that performs basic ar
 - Division
 
 ## How to Use
-![Description of Screenshot](screenshots/)
+![Description of Screenshot](screenshots)
 
 
 
